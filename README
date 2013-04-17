@@ -1,0 +1,2 @@
+This is a Windows application that pop out a message box reminder every 40 minutes reminding you to take a rest.
+The application icon sits within the taskbar, you can left click the icon to reset the timer countdown to 40min again or right click to quit it.
